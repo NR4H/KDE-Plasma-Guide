@@ -314,7 +314,7 @@ Para comprobar el funcionamiento completo:
 También es posible alternar entre la interfaz gráfica y la consola utilizando combinaciones de teclas, sin necesidad de ejecutar comandos:
 
 - **Ctrl + Alt + F3:** permite cambiar a una terminal de texto (TTY), donde se puede iniciar sesión y ejecutar comandos desde la consola.
-- **Ctrl + Alt + F1:** permite regresar a la sesión gráfica de KDE Plasma.
+- **Ctrl + Alt + F2:** permite regresar a la sesión gráfica de KDE Plasma.
 
 Estas combinaciones son útiles cuando se necesita acceder rápidamente a la consola o regresar al escritorio. La tecla de función correspondiente puede variar según la configuración del sistema.
 
